@@ -1,0 +1,6 @@
+- 👋 Hey, I’m @zion-exe
+- 👀 I’m interested in Software Engineernig more specifically app development and backend coding.
+- 🌱 I’m currently learning - python & Java Script.
+- 🫨 I’m looking to learn more about coding and different ways to get into the coding space.
+- 📫 How to reach me: ziondavis07@outlook.com
+- ⚡ Fun fact: I love reading 
